@@ -1,8 +1,8 @@
 **Olá, Eu Sou o Vitor-Yuzo**
 
-- 🔭 Pretendo Trabalhar com Front-End
+- 🔭 Sempre fui fascinado por tecnologia
 - 🌱 Estou estudando diferentes linguagens de programação pela PUC-Caminas
-- 👯 Já atuei em diversos projetos cooperativos acadêmicos 
+- 👯 Já atuei em diversos projetos cooperativos acadêmicos extra-curriculares
 - 💬 Além de habilidades técnicas, minhas soft-skills estão em constante aprimoramento
 ##
   <div>
